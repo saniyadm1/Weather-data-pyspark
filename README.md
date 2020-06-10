@@ -1,5 +1,5 @@
 # Weather-data-pyspark
-- The main aim of this project was to do the analysis on the weather dataset and
+- The main aim of this project is to do analysis on the weather dataset and
 predict the average temperature, humidity and dew point of next year on the basis
 of the previous years. The relation between temperature and dew
 point was calculated to understank their interrelation to each other. 
